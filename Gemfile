@@ -25,7 +25,7 @@ gem 'jquery-rails'
 gem 'heroku_san'
 
 
-group :devlopment do
+group :development do
   gem 'sqlite3'
 end
 # To use ActiveModel has_secure_password
